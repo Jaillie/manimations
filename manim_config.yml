@@ -1,0 +1,10 @@
+renderer: opengl
+quality: h
+frame_rate: 60
+resolution: 1920,1080
+media_dir: media
+custom_folders:
+  images: media/images
+  videos: media/videos
+  tex: media/Tex
+output_file: ""
