@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+venv/
+.env/
+.venv/
+.DS_Store
+
+# Manim / media outputs
+media/
+media/*
+!media/images/
+!media/Tex/
+
+# Jupyter
+.ipynb_checkpoints/
